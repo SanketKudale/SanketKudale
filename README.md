@@ -16,6 +16,7 @@
   <img src="https://github.com/SanketKudale/SanketKudale/blob/main/code_mode.gif" width="600" height="300"/>
 </div>
 <br>
+<hr>
 ### :man_technologist: About Me :
 
 I am a Web Developer and Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -26,6 +27,7 @@ I am a Web Developer and Android Developer <img src="https://media.giphy.com/med
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanket_Kudale-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanketkudale/)
 <br>
+<hr>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -45,6 +47,6 @@ I am a Web Developer and Android Developer <img src="https://media.giphy.com/med
 </div>
 
 <br>
-
+<hr>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanketKudale&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD1906)](https://git.io/streak-stats)
