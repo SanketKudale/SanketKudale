@@ -6,6 +6,8 @@
   Sanket Kudale
 </h1>
 
+<br>
+
 <!--<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sanketkudale/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,8 +17,9 @@
 <div align="center">
   <img src="https://github.com/SanketKudale/SanketKudale/blob/main/code_mode.gif" width="600" height="300"/>
 </div>
+
 <br>
-<hr>
+
 ### :man_technologist: About Me :
 
 I am a Web Developer and Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -26,10 +29,10 @@ I am a Web Developer and Android Developer <img src="https://media.giphy.com/med
 - :zap: In my free time, I improvize my hacking skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanket_Kudale-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanketkudale/)
-<br>
-<hr>
-### :hammer_and_wrench: Languages and Tools :
 
+<br>
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -47,6 +50,6 @@ I am a Web Developer and Android Developer <img src="https://media.giphy.com/med
 </div>
 
 <br>
-<hr>
+
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanketKudale&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD1906)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanketKudale&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
