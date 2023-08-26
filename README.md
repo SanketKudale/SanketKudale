@@ -22,9 +22,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Web Developer and Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Enginneer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as an Android Developer in Neutrino Tech Systems .
+- :telescope: I’m working as an Android Developer in Digichorus Technologies .
 
 - :zap: In my free time, I improvize my hacking skills.
 
